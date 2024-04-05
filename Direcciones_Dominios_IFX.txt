@@ -1687,3 +1687,5 @@ ips.gov.py
 correo.tdea.edu.co
 unlululer.com
 globalempowergt.com
+cargonetwork.pe
+ghcivitas.org
