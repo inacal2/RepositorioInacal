@@ -2351,3 +2351,5 @@ webmail.hosting.co.kr
 hosting.co.kr
 arc-ts.com
 mta.ham1007.secure.ne.jp
+pointleonad.com
+yingyangspa.com
