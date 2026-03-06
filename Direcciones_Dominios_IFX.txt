@@ -2463,3 +2463,5 @@ auth.returnpath.net
 mx2-us1.ppe-hosted.com
 mx1-us1.ppe-hosted.com
 ebunti.com
+otxwes.edu
+wragge-law.com
