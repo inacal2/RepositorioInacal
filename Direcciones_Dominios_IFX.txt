@@ -2531,3 +2531,13 @@ mouser.com
 emaildefense.proofpoint.com
 info.mouser.com
 s1742027581.m.en25.com
+mx-02-us-west-2.prod.hydra.sophos.com
+mx-01-us-west-2.prod.hydra.sophos.com
+gestionysistemas-com.mail.protection.outlook.com
+mail.senave.gov.py
+senave.gov.py
+gestionysistemas.com
+appworldlatam.com
+enyo.stata.com
+ares.stata.com
+stata.com
