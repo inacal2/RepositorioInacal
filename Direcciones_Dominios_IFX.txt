@@ -2549,3 +2549,7 @@ efide.com.pe
 efide-com-pe.mail.protection.outlook.com
 phh.com.my
 www.efide.com
+qq.com
+mxbiz1.qq.com
+mxbiz2.qq.com
+rijier.com
