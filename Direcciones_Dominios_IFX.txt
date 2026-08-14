@@ -2585,3 +2585,15 @@ munibrena.gob.pe
 ipv4.imgur.map.fastly.net
 inbound.postmarkapp.com
 mail.munibrena.gob.pe
+mail1.ccsend.com
+mail.17d11.mspz2.gob.ec
+motaengil-pe01b.mail.protection.outlook.com
+ipv4.imgur.map.fastly.net
+honeywell-com.mail.protection.outlook.com
+Honeywell.com
+dirislimanorte.gob.pe
+nugetcenter.com
+munibrena.gob.pe
+mota-engil.pe
+17d11.mspz2.gob.ec
+shared1.ccsend.com
