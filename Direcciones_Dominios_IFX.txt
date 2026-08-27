@@ -2493,7 +2493,6 @@ dmarc.brevo.com
 mailtdp.cclservicios.org.pe
 cclservicios.org.pe
 mxa-0058f602.gslb.pphosted.com
-www.tuv.com
 otter.ai
 updates.sovos.com
 mx1.cleanmx.pt
