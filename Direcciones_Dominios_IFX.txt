@@ -2585,8 +2585,6 @@ mail1.ccsend.com
 mail.17d11.mspz2.gob.ec
 motaengil-pe01b.mail.protection.outlook.com
 ipv4.imgur.map.fastly.net
-honeywell-com.mail.protection.outlook.com
-Honeywell.com
 dirislimanorte.gob.pe
 nugetcenter.com
 munibrena.gob.pe
