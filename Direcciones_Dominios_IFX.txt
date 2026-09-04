@@ -2588,7 +2588,6 @@ ipv4.imgur.map.fastly.net
 dirislimanorte.gob.pe
 nugetcenter.com
 munibrena.gob.pe
-mota-engil.pe
 17d11.mspz2.gob.ec
 shared1.ccsend.com
 bounces.talentlms.com
