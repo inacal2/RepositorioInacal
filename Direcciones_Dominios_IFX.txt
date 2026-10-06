@@ -2604,3 +2604,8 @@ evotechsolution-com01i.mail.protection.outlook.com
 mx.sendcloud.org
 email.tiktok.com
 smtp.diag
+fpa-is.com
+mx1c76.carrierzone.com
+mx2c76.carrierzone.com
+mx3c76.carrierzone.com
+mx4c76.carrierzone.com
