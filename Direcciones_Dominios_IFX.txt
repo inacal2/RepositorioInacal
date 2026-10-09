@@ -2609,3 +2609,14 @@ mx1c76.carrierzone.com
 mx2c76.carrierzone.com
 mx3c76.carrierzone.com
 mx4c76.carrierzone.com
+mx.core.locaweb.com.br
+mx.a.locaweb.com.br
+mx.b.locaweb.com.br
+mx.jk.locaweb.com.br
+ceplan-gob-pe.mail.protection.outlook.com
+venus.ceplan.gob.pe
+mail-bn1pr21cu00106.inbound.protection.outlook.com
+transportadorajacarei.com.br
+publigraf.net.pe
+ceplan.gob.pe
+segmda.inkanetperu.com 
