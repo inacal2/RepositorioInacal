@@ -2620,3 +2620,11 @@ transportadorajacarei.com.br
 publigraf.net.pe
 ceplan.gob.pe
 segmda.inkanetperu.com 
+windowsupdate.microsoft.com
+update.microsoft.com
+windowsupdate.com
+download.microsoft.com
+download.windowsupdate.com
+wustat.windows.com
+stats.microsoft.com
+data.microsoft.com
