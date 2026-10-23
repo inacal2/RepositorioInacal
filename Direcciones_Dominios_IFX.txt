@@ -2628,3 +2628,4 @@ download.windowsupdate.com
 wustat.windows.com
 stats.microsoft.com
 data.microsoft.com
+ultrasurf.us
