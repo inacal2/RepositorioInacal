@@ -2629,3 +2629,5 @@ wustat.windows.com
 stats.microsoft.com
 data.microsoft.com
 ultrasurf.us
+questpluslive.org
+matrixlms.com
