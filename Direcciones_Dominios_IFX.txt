@@ -2631,3 +2631,11 @@ data.microsoft.com
 ultrasurf.us
 questpluslive.org
 matrixlms.com
+107.154.67.16.jp.incapdns.net
+107.154.93.153.jp.incapdns.net
+107.154.93.16.jp.incapdns.net
+107.154.93.15.jp.incapdns.net
+107.154.93.145.jp.incapdns.net
+107.154.93.3.jp.incapdns.net
+107.154.93.9.jp.incapdns.net
+107.154.93.11.jp.incapdns.net
